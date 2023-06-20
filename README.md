@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [UPMin Events](https://github.com/nbryleibanez/UP-Min-Events)
 
-- 🌱 I’m currently learning **Data Analytics**
+- 🌱 I’m currently learning **Data Analytics, Machine Learning, and Web Development**
 
 - 📫 How to reach me **rafa.paderna@gmail.com**
 
