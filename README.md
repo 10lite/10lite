@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Rafa</h1>
-I am a student who currently wanders across different fields of technology, passionately looking for creative ways in developing applications for helping people..
+I am a student who currently wanders across different fields of technology, passionately looking into developing creative applications.
 
 - 🔭 I’m currently working on [UPMin Events](https://github.com/nbryleibanez/UP-Min-Events)
 
