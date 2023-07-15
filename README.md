@@ -3,7 +3,7 @@ I am a student who currently wanders across different fields of technology, pass
 
 - 🔭 I’m currently working on [UPMin Events](https://github.com/nbryleibanez/UP-Min-Events)
 
-- 🌱 I’m currently learning **Data Analytics, Machine Learning, and Web Development**
+- 🌱 I’m currently learning about **Data Analytics, Machine Learning, and Web Development**
 
 - 📫 How to reach me **rafa.paderna@gmail.com**
 
