@@ -1,11 +1,11 @@
 <h1>Hi 👋, I'm Rafa</h1>
 I am a student who currently wanders across different fields of technology, passionately looking into developing creative applications.
 
-- 🔭 I’m currently working on [UPMin Events](https://github.com/nbryleibanez/UP-Min-Events)
+- 🔭 I’m currently working on [UPMin Events](https://github.com/nbryleibanez/UP-Min-Events).
 
-- 🌱 I’m currently learning about **Data Analytics, Machine Learning, and Web Development**
+- 🌱 I’m currently learning about **Data Analytics, Machine Learning, and Web Development**.
 
-- 📫 How to reach me **rafa.paderna@gmail.com**
+- 📫 Reach me at **rafa.paderna@gmail.com**
 
 - 📄 [Know about my experiences](https://drive.google.com/file/d/1BRJ7ub9KOoemkPikAZF_Ghfx_7F9CSq8/view?usp=sharing)
 
