@@ -7,7 +7,7 @@ I am a student who currently wanders across different fields of technology, pass
 
 - 📫 Reach me at **rafa.paderna@gmail.com**
 
-- 📄 [Know about my experiences](https://drive.google.com/file/d/1BRJ7ub9KOoemkPikAZF_Ghfx_7F9CSq8/view?usp=sharing)
+- 📄 [Know about my experiences](https://drive.google.com/file/d/1wg3Ih1TYVzGaWB5a8HwH_djooSXgds3c/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
