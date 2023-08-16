@@ -1,9 +1,9 @@
 <h1>Hi 👋, I'm Rafa</h1>
 I am a student who currently wanders across different fields of technology, passionately looking into developing creative applications with use.
 
-- 🔭 I’m currently working on [UPMin Events](https://github.com/nbryleibanez/UP-Min-Events).
+- 🔭 I’m currently working on developing progressive web applications around JavaScript technologies.
 
-- 🌱 I’m currently learning about **Data Analytics, Machine Learning, and Web Development**.
+- 🌱 I’m currently learning **Web Development, Software Development, and Tailwind**.
 
 - 📫 Reach me at **rafa.paderna@gmail.com**
 
