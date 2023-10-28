@@ -1,9 +1,9 @@
 <h1>Hi 👋, I'm Rafa</h1>
-I am a student who currently wanders across different fields of technology, passionately looking into developing creative applications with use.
+I'm a student who currently wanders around different technologies on web and software development, passionately looking into developing useful and creative applications.
 
-- 🔭 I’m currently working on developing progressive web applications around JavaScript technologies.
+- 🔭 I’m currently working on developing Next.js progressive web applications.
 
-- 🌱 I’m currently learning **Web Development, Software Development, and Tailwind**.
+- 🌱 I’m currently learning deeper on **Front-end development**.
 
 - 📫 Reach me at **rafa.paderna@gmail.com**
 
