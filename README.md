@@ -7,7 +7,7 @@ I'm a student who currently wanders around different technologies on web and sof
 
 - 📫 Reach me at **rafa.paderna@gmail.com**
 
-- 📄 [Know about my experiences](https://drive.google.com/file/d/1LxK_bxh6KMYo4f0NqkTwf_Y--yTTbfZb/view?usp=sharing)
+- 📄 [Know about my experiences](https://drive.google.com/file/d/1TV1wQfrvlK7k49YlpxI8BQIcxAs8_9WP/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
