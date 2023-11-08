@@ -1,5 +1,5 @@
 <h1>Hi 👋</h1>
-I'm a student who currently wanders around different technologies on web and software development, passionately looking into developing useful and creative applications.
+Currently, I wander around different technologies on web and software development, passionately looking into developing useful and creative applications.
 
 - 🔭 I’m currently working on developing React applications with Next and Tailwind.
 
