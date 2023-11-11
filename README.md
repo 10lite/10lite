@@ -1,7 +1,7 @@
 <h1>Hi 👋</h1>
 Currently, I wander around different technologies on web and software development, passionately looking into developing useful and creative applications.
 
-- 🔭 I’m currently working on developing React applications with Next and Tailwind.
+- 🔭 I’m currently working on React projects with Next and Tailwind.
 
 - 🌱 I’m currently learning deeper on **Front-end development** with React frameworks.
 
