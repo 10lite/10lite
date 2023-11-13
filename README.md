@@ -5,7 +5,7 @@ Currently, I wander around different technologies on web and software developmen
 
 - 🌱 I’m currently learning deeper on **Front-end development** with React frameworks.
 
-- 📫 Reach me at **rafa.paderna@gmail.com**
+- 📫 Reach me @ **rafa.paderna@gmail.com**
 
 - 📄 [Know about my experiences](https://drive.google.com/file/d/1TV1wQfrvlK7k49YlpxI8BQIcxAs8_9WP/view?usp=sharing)
 
