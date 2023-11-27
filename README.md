@@ -1,4 +1,4 @@
-<h1>Hi there!👋</h1>
+<h1>Hi!👋</h1>
 I wander around different technologies on web development, where I passionately dive towards developing useful and creative applications.
 
 - 🔭 I’m currently working on React projects with [Next](https://nextjs.org/) and [Tailwind](https://tailwindcss.com/).
