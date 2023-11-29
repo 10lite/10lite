@@ -3,7 +3,7 @@ I wander around different technologies on web development, where I passionately 
 
 - 🔭 I’m currently working on React projects with [Next](https://nextjs.org/) and [Tailwind](https://tailwindcss.com/).
 
-- 🌱 I’m currently learning deeper into **Front-end Development** with React frameworks.
+- 🌱 I’m currently learning more and more about **Front-end Development** with React frameworks.
 
 - 📫 Reach me @ **rafa.paderna@gmail.com**
 
