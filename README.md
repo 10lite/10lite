@@ -1,5 +1,5 @@
 <h1>Hi!👋</h1>
-I wander around different technologies on web development, where I passionately dive towards developing useful and creative applications.
+I wander around different technologies on web development, where I passionately dive towards developing useful and creative applications. I also strive towards creating meaningful impacts through developing applications.
 
 - 🔭 I’m currently working on React projects with [Next](https://nextjs.org/) and [Tailwind](https://tailwindcss.com/).
 
