@@ -7,7 +7,7 @@ I ponder upon different technologies on software development, where I passionate
 
 - 📫 Reach me @ **rafa.paderna@gmail.com**
 
-- 📄 [Know about my experiences](https://drive.google.com/file/d/1TV1wQfrvlK7k49YlpxI8BQIcxAs8_9WP/view?usp=sharing)
+- 📄 [Know about my experiences so far!](https://drive.google.com/file/d/1TV1wQfrvlK7k49YlpxI8BQIcxAs8_9WP/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
