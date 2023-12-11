@@ -1,5 +1,5 @@
 <h1>Hello there!👋</h1>
-I ponder upon different technologies on software development, where I passionately dive towards developing useful and creative applications. I also strive towards establishing meaningful impacts through developing applications.
+I ponder upon different technologies on software development, where I passionately aim towards developing useful and creative applications. I also strive towards establishing meaningful impacts through developing applications.
 
 - 🔭 I’ve currently been working on React projects with [Next.js](https://nextjs.org/) and [Tailwind CSS](https://tailwindcss.com/).
 
