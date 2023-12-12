@@ -1,7 +1,7 @@
 <h1>Hello there!👋</h1>
 I ponder upon different technologies on software development, where I passionately aim towards developing useful and creative applications. I also strive towards establishing meaningful impacts through developing applications.
 
-- 🔭 I’ve currently been working on React projects with [Next.js](https://nextjs.org/) and [Tailwind CSS](https://tailwindcss.com/).
+- 🔭 I’ve currently been working on React projects using [Next.js](https://nextjs.org/) and [Tailwind CSS](https://tailwindcss.com/).
 
 - 🌱 I’m currently learning deeper into **Front-end Development** with [React](https://react.dev/) frameworks.
 
