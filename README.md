@@ -7,7 +7,7 @@ I ponder upon different technologies on software development, where I passionate
 
 
 # #
-### 🚀 Know more about me ###
+### 🚀 Contact me! ###
 - 📫 Reach me @ **rafa.paderna@gmail.com**
 
 - 📄 View [my past experiences](https://drive.google.com/file/d/1TV1wQfrvlK7k49YlpxI8BQIcxAs8_9WP/view?usp=sharing)
