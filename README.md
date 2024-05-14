@@ -12,7 +12,7 @@ I ponder upon different technologies on software development, where I passionate
 
 - 📄 View [my past experiences](https://drive.google.com/file/d/1TV1wQfrvlK7k49YlpxI8BQIcxAs8_9WP/view?usp=sharing)
 
-- 🌐 [Connect](https://linkedin.com/in/rafapaderna) with me!
+- 🌐 [Connect](https://linkedin.com/in/rafapaderna) with me
 # #
 
 ### ⚙️ Encountered Technologies: ###
