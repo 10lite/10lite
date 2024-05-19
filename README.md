@@ -5,6 +5,8 @@ I ponder upon different technologies on software development, where I passionate
 
 - 🌱 I dive into **Front-end Development** with [React](https://react.dev/) frameworks.
 
+- 🤔 I am currently interested in learning more about Gen AI, machine learning, and data science.
+
 
 # #
 ### 🚀 Contact me: ###
